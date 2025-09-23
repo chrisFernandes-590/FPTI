@@ -1,3 +1,5 @@
 pip install streamlit pandas matplotlib plotly yfinance
 
 streamlit run src/app.py
+
+pip list | grep -E "streamlit|pandas|matplotlib|plotly|yfinance"
