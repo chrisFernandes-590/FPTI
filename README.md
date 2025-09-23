@@ -122,3 +122,5 @@ This tool is useful for personal finance planning, investment evaluation, and un
 * Email: chriscric17@gmail.com
 * GitHub: \[Your GitHub Profile]
 
+
+### Financial Dashboard
